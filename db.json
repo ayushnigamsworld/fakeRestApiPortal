@@ -1,0 +1,13 @@
+{
+	"result": "success",
+	"accessList": {
+		"MEMBER_PACKAGE_REQUEST": false,
+		"MEMBER_UNLOCK": true,
+		"MEMBER_ADD": true,
+		"MEMBER_DELETE": true,
+		"MEMBER_MANAGE": true,
+		"MEMBER_ASSIGN": true,
+		"MEMBER_ASSIGN_PACKAGE": true,
+		"MEMBER_RELEASE_PACKAGE": true
+	}
+}
